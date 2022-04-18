@@ -1,4 +1,4 @@
-<h1 align="center">Profile Card</h1>
+<h1 align="center">Portfolio</h1>
 
 ![Imagem](https://i.ibb.co/q7rCq7L/print-projeto.png)
 
